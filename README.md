@@ -1,8 +1,16 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on FireBootCamp at SSW
-  
-- 🌱 I’m currently finishing my Bachelor of Computer Science
+I'm a student passionate about building practical and impactful software. I enjoy working across many different areas of IT and software development/
+
+### 🛠️ Technologies I Work With
+- **Frontend:** Vue.js, HTML, CSS, Bootstrap
+- **Backend:** .NET (C#), ASP.NET Core, Java
+- **Scripting & Tools:** Python, Git, SQL
+- **Concepts:** Web development, REST APIs, Security 
+
+### 🌱 What I'm Learning
+- Advanced .NET techniques and architecture
+- Using Angular and React to build dynamic frontends
   
 - 😄 Pronouns: He/him
 
