@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I'm a student passionate about building practical and impactful software. I enjoy working across many different areas of IT and software development/
+I'm a student passionate about building practical and impactful software. I enjoy working across many different areas of IT and software development.
+- 😄 Pronouns: He/him
 
 ### 🛠️ Technologies I Work With
 - **Frontend:** Vue.js, HTML, CSS, Bootstrap
@@ -12,6 +13,4 @@ I'm a student passionate about building practical and impactful software. I enjo
 - Advanced .NET techniques and architecture
 - Using Angular and React to build dynamic frontends
   
-- 😄 Pronouns: He/him
-
 [![Pat's github stats](https://github-readme-stats.vercel.app/api?username=Pat-Stuart&amp;theme=dark)](https://github.com/Pat-Stuart/github-readme-stats)
