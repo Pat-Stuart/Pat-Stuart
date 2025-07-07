@@ -4,7 +4,7 @@ I'm a student passionate about building practical and impactful software. I enjo
 - 😄 Pronouns: He/him
 
 ### 🛠️ Technologies I Work With
-- **Frontend:** Vue.js, HTML, CSS, Bootstrap
+- **Frontend:** Vue.js, Angular, HTML, CSS, Bootstrap
 - **Backend:** .NET (C#), ASP.NET Core, Java
 - **Scripting & Tools:** Python, Git, SQL
 - **Concepts:** Web development, REST APIs, Security 
